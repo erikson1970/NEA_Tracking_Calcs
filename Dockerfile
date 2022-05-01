@@ -1,7 +1,7 @@
 # Remote Dev Container Builder
 #   credit to Youtube's @Astroniz for original and inspiration
 #
-FROM python:3-slim-bullseye
+FROM python:3.9-buster
 
 LABEL description="Remote Container Builder"
 LABEL version="0.2"
