@@ -1,1 +1,11 @@
-.ipynb_checkpoints/*
+.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+ipython_config.py
+_kernels/*
+*.pyc
+*.gif
+*.png
+*.OBJ
