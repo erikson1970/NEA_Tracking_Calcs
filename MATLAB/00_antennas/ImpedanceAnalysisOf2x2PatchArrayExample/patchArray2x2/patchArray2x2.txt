@@ -1,0 +1,12 @@
+%
+M48
+; Filename: patchArray2x2.txt
+; Description: Vias,PTH,1,2
+M72
+T01C0.011811
+%
+T01
+X-001112Y-037882
+X001112Y-037882
+T00
+M30
